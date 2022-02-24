@@ -15,6 +15,16 @@
                 "label": "daik-color-theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/daik-color-theme-color-theme.json"
+            },
+            {
+                "label": "daik-color-theme-blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/daik-color-theme-color-theme-blue.json"
+            },
+            {
+                "label": "daik-color-theme-red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/daik-color-theme-color-theme-red.json"
             }
         ]
     }

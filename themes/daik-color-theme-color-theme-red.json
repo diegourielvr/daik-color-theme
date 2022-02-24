@@ -1,67 +1,68 @@
 {
-	"name": "daik-color-theme",
+	"name": "daik-color-theme-red",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"colors": {
-		"editor.background": "#111111",
+		"editor.background": "#310f16",
 		"editor.foreground": "#dddddd",
-		"editorIndentGuide.background": "#111111",
-		"editorIndentGuide.activeBackground": "#1c81fd",
-		"editorRuler.foreground": "#1a1a1a",
+		"editorIndentGuide.background": "#310f16",
+		"editorIndentGuide.activeBackground": "#b11a2e",
+		"editorRuler.foreground": "#b11a2e",
+		"tree.indentGuidesStroke": "#b11a2e",
 
-		"editor.lineHighlightBackground": "#01234c",
-		"editor.lineHighlightBorder": "#111111",
-		"editor.selectionBackground": "#01234c",
+		"editor.lineHighlightBackground": "#5f151b",
+		"editor.lineHighlightBorder": "#1b070d",
+		"editor.selectionBackground": "#5f151b",
 		"editorLineNumber.foreground": "#818181",
-		"editorLineNumber.activeForeground": "#1c81fd",
-		"editorGroupHeader.tabsBackground": "#111111",
-			
+		"editorLineNumber.activeForeground": "#b11a2e",
+		"editorGroupHeader.tabsBackground" : "#1b070d",
+		
 		"editorCursor.background": "#cde3fe",
-		"editorCursor.foreground": "#1c81fd",		
+		"editorCursor.foreground": "#b11a2e",		
 		
 		"editorBracketMatch.border": "#cde3fe",
 
-		"input.background": "#1a1a1a",
+		"input.background": "#1b070d",
 		"input.foreground": "#cde3fe",
 
-		"panelTitle.activeBorder": "#1c81fd",
+		"panelTitle.activeBorder": "#b11a2e",
 		"panelTitle.activeForeground": "#cde3fe",
 		"panelTitle.inactiveForeground": "#818181",
 
-		"tab.activeBorder": "#1c81fd",
+		"tab.activeBorder": "#b11a2e",
 		"tab.activeForeground": "#cde3fe",
-		"tab.inactiveBackground": "#1a1a1a",
+		"tab.inactiveBackground": "#1b070d",
 		"tab.inactiveForeground": "#818181",
 		"tab.hoverForeground": "#cde3fe",
-		"tab.border": "#111111",
+		"tab.border": "#1b070d",
 
-		"activityBar.background": "#111111",
-		"activityBar.foreground": "#1c81fd",
+		"activityBar.background": "#310f16",
+		"activityBar.foreground": "#b11a2e",
 		"activityBar.inactiveForeground": "#818181",
-		"activityBar.activeBackground": "#111111",
-		"activityBarBadge.background": "#1c81fd",
-		"activityBar.activeBorder": "#1c81fd",
-		"button.background": "#1c81fd",
+		"activityBar.activeBackground": "#1b070d",
+		"activityBarBadge.background": "#b11a2e",
+		"activityBar.activeBorder": "#b11a2e",
+		"button.background": "#b11a2e",
 
-		"sideBar.background": "#1a1a1a",
+		"sideBar.background": "#1b070d",
 		"sideBar.foreground": "#818181",
 		"sideBarTitle.foreground": "#818181",
-		"sideBarSectionHeader.background": "#111111",
+		"sideBarSectionHeader.background": "#310f16",
 		"sideBarSectionHeader.foreground": "#818181",
 		
-		"list.activeSelectionBackground": "#01234c",
+		"list.activeSelectionBackground": "#310f16",
 		"list.activeSelectionForeground": "#cde3fe",
-		"list.inactiveSelectionBackground": "#01234c",
+		"list.inactiveSelectionBackground": "#310f16",
 		"list.inactiveSelectionForeground": "#cde3fe",
-		"list.hoverBackground": "#01234c",
+		"list.hoverBackground": "#310f16",
 		"list.hoverForeground": "#cde3fe",
-		"list.focusBackground": "#01234c",
+		"list.focusBackground": "#310f16",
 		"list.focusForeground": "#cde3fe",
 
-		"statusBar.background": "#0d0d0d",
+		"statusBar.background": "#1b070d",
 		"statusBar.foreground": "#818181",
 
-		"notifications.background": "#1a1a1a",
+		"notifications.background": "#1b070d",
 		"notifications.foreground": "#818181",
 
 		"gitDecoration.modifiedResourceForeground": "#199ffd",
@@ -74,7 +75,7 @@
 		"gitDecoration.stageDeletedResourceForeground": "#745b53",
 		"gitDecoration.stageModifiedResourceForeground": "#199ffd",
 
-		"editorWidget.background": "#111111"
+		"editorWidget.background": "#1b070d"
 	},
 	"tokenColors": [
 		{
@@ -166,7 +167,7 @@
 				"constant.lenguage"
 			],
 			"settings": {
-				"foreground": "#ff4878",
+				"foreground": "#ff4878"
 			}
 		},
 		{
@@ -276,7 +277,7 @@
 		{
 			"name": "Number",
 			"scope": [
-				"constant.numeric",
+				"constant.numeric"
 			],
 			"settings": {
 				"foreground": "#DC97DD"
@@ -286,10 +287,10 @@
 			"name": "Function parameter",
 			"scope": [
 				"variable.parameter",
-				"meta.function-call.arguments",
+				"meta.function-call.arguments"
 			], 
 			"settings": {
-				"foreground": "#e6e6e6",
+				"foreground": "#e6e6e6"
 			}
 		},
 		{
